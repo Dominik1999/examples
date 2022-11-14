@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/0xPolygonMiden/examples/static/css/main.bfd33167.css",
+    "main.js": "/0xPolygonMiden/examples/static/js/main.5542ab6a.js",
+    "static/media/miden_wasm_bg.wasm": "/0xPolygonMiden/examples/static/media/miden_wasm_bg.96d2489764b0cb54c8fa.wasm",
+    "index.html": "/0xPolygonMiden/examples/index.html",
+    "main.bfd33167.css.map": "/0xPolygonMiden/examples/static/css/main.bfd33167.css.map",
+    "main.5542ab6a.js.map": "/0xPolygonMiden/examples/static/js/main.5542ab6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfd33167.css",
+    "static/js/main.5542ab6a.js"
+  ]
+}
