@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/0xPolygonMiden/examples/static/css/main.bfd33167.css",
-    "main.js": "/0xPolygonMiden/examples/static/js/main.5542ab6a.js",
-    "static/media/miden_wasm_bg.wasm": "/0xPolygonMiden/examples/static/media/miden_wasm_bg.96d2489764b0cb54c8fa.wasm",
+    "main.css": "/0xPolygonMiden/examples/static/css/main.e6c13ad2.css",
+    "main.js": "/0xPolygonMiden/examples/static/js/main.b0705e93.js",
+    "static/media/miden_wasm_bg.wasm": "/0xPolygonMiden/examples/static/media/miden_wasm_bg.d953ad61da1ce00ff5ce.wasm",
     "index.html": "/0xPolygonMiden/examples/index.html",
-    "main.bfd33167.css.map": "/0xPolygonMiden/examples/static/css/main.bfd33167.css.map",
-    "main.5542ab6a.js.map": "/0xPolygonMiden/examples/static/js/main.5542ab6a.js.map"
+    "main.e6c13ad2.css.map": "/0xPolygonMiden/examples/static/css/main.e6c13ad2.css.map",
+    "main.b0705e93.js.map": "/0xPolygonMiden/examples/static/js/main.b0705e93.js.map"
   },
   "entrypoints": [
-    "static/css/main.bfd33167.css",
-    "static/js/main.5542ab6a.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b0705e93.js"
   ]
 }
