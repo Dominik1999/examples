@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/0xPolygonMiden/examples/static/css/main.e6c13ad2.css",
-    "main.js": "/0xPolygonMiden/examples/static/js/main.b0705e93.js",
+    "main.js": "/0xPolygonMiden/examples/static/js/main.e4d449a4.js",
     "static/media/miden_wasm_bg.wasm": "/0xPolygonMiden/examples/static/media/miden_wasm_bg.d953ad61da1ce00ff5ce.wasm",
     "index.html": "/0xPolygonMiden/examples/index.html",
     "main.e6c13ad2.css.map": "/0xPolygonMiden/examples/static/css/main.e6c13ad2.css.map",
-    "main.b0705e93.js.map": "/0xPolygonMiden/examples/static/js/main.b0705e93.js.map"
+    "main.e4d449a4.js.map": "/0xPolygonMiden/examples/static/js/main.e4d449a4.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.b0705e93.js"
+    "static/js/main.e4d449a4.js"
   ]
 }
